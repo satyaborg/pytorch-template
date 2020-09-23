@@ -1,5 +1,5 @@
 # pytorch-template
-A standard template for any PyTorch project 🔥
+A standard template for any PyTorch project 🔥  
 Includes boilerplate code for: training, evaluation, transformation, model checkpointing etc.
 
 ### Getting started
