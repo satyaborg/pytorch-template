@@ -1,0 +1,18 @@
+# general
+.ipynb_checkpoints/
+__pycache__/
+venv/
+kaggle.json
+
+# logs 
+logs/*
+runs/*
+
+# weights
+checkpoints/*
+
+# data
+data/*
+
+# notebooks
+notebooks/*

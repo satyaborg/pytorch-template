@@ -1,0 +1,30 @@
+# general
+project: foo
+log_level: INFO
+debug: 1
+
+# global
+seed: 42
+device: cuda
+verbose: 1
+n_classes: 10
+img_size: 224
+model: "efficientnet-b1" # ConvNet VGG11bn
+use_pretrained: True
+feature_extract: False 
+preprocess: False
+show_report: False
+with_cv: False
+
+# filepaths
+paths:
+  root: foo
+  data: data
+  train: train.csv
+  test: test.csv
+  checkpoints: checkpoints
+  logs: logs
+
+# training hyperparams
+hyperparams:
+
